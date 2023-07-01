@@ -501,6 +501,48 @@
                 "Instagram": "",
                 "Facebook": "",
                 "Image": "Picture92"
+            },
+            {
+                "title": "Saliba Plas",
+                "info": [
+                    {
+                        "Address": "Raite",
+                        "Location": "https://goo.gl/maps/ZuKJ4iKzseE3WEwD7?coh=178573&entry=tt",
+                        "Contact": "03529231"
+                    }
+                ],
+                "Website": "",
+                "Instagram": "",
+                "Facebook": "https://www.facebook.com/people/Saliba-Plas/100074326082372/?paipv=0&eav=AfY9pba5Oi0zOlsbamTtDJoiDWQIJCuknkLwNd8SBIK_Hw3jZItlP8gI38RPNpYKnnc&_rdr",
+                "Image": "Picture93"
+            },
+            {
+                "title": "Costa Brava trash dump",
+                "info": [
+                    {
+                        "Address": "RF4J+9CV, Chouaifet El Qoubbeh",
+                        "Location": "https://goo.gl/maps/kFNwpQ3x63LQC26i7?coh=178573&entry=tt",
+                        "Contact": "01360000"
+                    }
+                ],
+                "Website": "",
+                "Instagram": "",
+                "Facebook": "",
+                "Image": "Picture94"
+            },
+            {
+                "title": "Costa Brava Landfill",
+                "info": [
+                    {
+                        "Address": "facing Airport Runway, Beirut - Saida Hwy",
+                        "Location": "https://goo.gl/maps/Lb3hymmiJTedePRM9?coh=178573&entry=tt",
+                        "Contact": ""
+                    }
+                ],
+                "Website": "",
+                "Instagram": "",
+                "Facebook": "",
+                "Image": "Picture95"
             }
         ]
     },
