@@ -580,7 +580,9 @@
                 ],
                 "Image": "Picture120"
             }
-        ]
+        ],
+        "subcategoryTitle": " ",
+        "locationTitle": "Link"
     },
     {
         "title": "Organic & Eco-friendly Shops",
@@ -625,7 +627,7 @@
         ]
     },
     {
-        "title": "Green Events and Workshops",
+        "title": "Green Events & Workshops",
         "Image": "5.jpg",
         "subcategory": []
     },
