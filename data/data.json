@@ -553,16 +553,25 @@
             {
                 "title": "Click on the route you want and the bus number will appear",
                 "Image": "Picture118",
+                "info": [
+                    {}
+                ],
                 "Website": "https://www.google.com/maps/d/u/0/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy&ll=33.85959464848556%2C35.5367176271684&z=13"
             },
             {
                 "title": "Bus number and their starting to ending point with its route highlighted",
                 "Image": "Picture119",
+                "info": [
+                    {}
+                ],
                 "Website": "https://www.edarabia.com/bus-routes-beirut-guide/"
             },
             {
                 "title": "Click on bus icon on the left to explore Lebanon's existing public transit options by line/route, hub, region or agent/operator.",
                 "Image": "Picture120",
+                "info": [
+                    {}
+                ],
                 "Website": "https://www.living-lebanon.com/visit-lebanon/beirut/getting-around-beirut/by-bus/975-beirut-bus-map-lebanon"
             }
         ],
@@ -619,6 +628,117 @@
     {
         "title": "Emergency",
         "Image": "6.jpg",
-        "subcategory": []
+        "subcategory": [
+            {
+                "title": "Police",
+                "info": [
+                    {
+                        "Contact": "112"
+                    }
+                ]
+            },
+            {
+                "title": "Lebanese Red Cross",
+                "info": [
+                    {
+                        "Contact": "140"
+                    },
+                    {
+                        "Contact": "+961 5 924 017"
+                    },
+                    {
+                        "Contact": "+961 5 924 18"
+                    },
+                    {
+                        "Contact": "+961 5 924 20"
+                    },
+                    {
+                        "Contact": "+961 1 322 986"
+                    }
+                ]
+            },
+            {
+                "title": "Fire Department",
+                "info": [
+                    {
+                        "Contact": "175"
+                    }
+                ]
+            },
+            {
+                "title": "General Security",
+                "info": [
+                    {
+                        "Contact": "1717"
+                    }
+                ]
+            },
+            {
+                "title": "Civil Defense",
+                "info": [
+                    {
+                        "Contact": "125"
+                    }
+                ]
+            },
+            {
+                "title": "Lebanese Army",
+                "info": [
+                    {
+                        "Contact": "1701"
+                    }
+                ]
+            },
+            {
+                "title": "Military Operation's Room",
+                "info": [
+                    {
+                        "Contact": "117"
+                    }
+                ]
+            },
+            {
+                "title": "General Security Offices",
+                "info": [
+                    {
+                        "Contact": "+961 1 425 610"
+                    },
+                    {
+                        "Contact": "01429061"
+                    }
+                ],
+                "Website": "https://goo.gl/maps/QsvKGQQiCVauAQdD7?coh=178573&entry=tt"
+            },
+            {
+                "title": "Internal Security Forces",
+                "info": [
+                    {
+                        "Contact": "+961 1 425 000"
+                    }
+                ],
+                "Website": "https://goo.gl/maps/UfpqPMtzGgoJzDF59?coh=178573&entry=tt"
+            },
+            {
+                "title": "Ministry of Foreign Affairs",
+                "info": [
+                    {
+                        "Contact": "+961 1 213 510"
+                    }
+                ],
+                "Website": "https://goo.gl/maps/E6dWn26fH9wfCPDQ9?coh=178573&entry=tt"
+            },
+            {
+                "title": "Embrace: The lifeline",
+                "info": [
+                    {
+                        "Contact": "1564"
+                    },
+                    {
+                        "Contact": "01341941"
+                    }
+                ],
+                "Website": "https://goo.gl/maps/Rc5y1nNmQc59hcnS7?coh=178573&entry=tt"
+            }
+        ]
     }
 ]
