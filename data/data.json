@@ -552,33 +552,18 @@
         "subcategory": [
             {
                 "title": "Click on the route you want and the bus number will appear",
-                "info": [
-                    {
-                        "Address": "",
-                        "Location": "https://www.google.com/maps/d/u/0/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy&ll=33.85959464848556%2C35.5367176271684&z=13 "
-                    }
-                ],
-                "Image": "Picture118"
+                "Image": "Picture118",
+                "Website": "https://www.google.com/maps/d/u/0/embed?mid=1F367Y0wIb2QAU39bC1vfqJ7hAD_W56qy&ll=33.85959464848556%2C35.5367176271684&z=13"
             },
             {
                 "title": "Bus number and their starting to ending point with its route highlighted",
-                "info": [
-                    {
-                        "Address": "",
-                        "Location": "https://www.edarabia.com/bus-routes-beirut-guide/"
-                    }
-                ],
-                "Image": "Picture119"
+                "Image": "Picture119",
+                "Website": "https://www.edarabia.com/bus-routes-beirut-guide/"
             },
             {
                 "title": "Click on bus icon on the left to explore Lebanon's existing public transit options by line/route, hub, region or agent/operator.",
-                "info": [
-                    {
-                        "Address": "",
-                        "Location": "https://www.living-lebanon.com/visit-lebanon/beirut/getting-around-beirut/by-bus/975-beirut-bus-map-lebanon"
-                    }
-                ],
-                "Image": "Picture120"
+                "Image": "Picture120",
+                "Website": "https://www.living-lebanon.com/visit-lebanon/beirut/getting-around-beirut/by-bus/975-beirut-bus-map-lebanon"
             }
         ],
         "subcategoryTitle": " ",
